@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  KMG_CS330_PROJECT.vcxproj -> U:\KMG_CS330_PROJECT\Debug\KMG_CS330_PROJECT.exe
